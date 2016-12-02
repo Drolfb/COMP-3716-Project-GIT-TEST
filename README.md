@@ -27,11 +27,9 @@ and generate next round.
 
 9. Before you you click on the manage score button you must select a row in the table first. Once a row is selected from 
 there you can click on manage score button which opens up another page where you can enter in scores for each of the teams and
-then you hit the determine winner button and from there the system will calculate the winner. You can then hit return to go back 
-to the previous bracket page. 
+then you hit the determine winner button and from there the system will calculate the winner. You can then hit return to go back to the previous bracket page.
 
-10. You then keep on generating new brackets until there's only 2 teams remaining. From there if you hit generate next 
-round it will a brand new page with the winner. 
+10. You then keep on generating new brackets after all winners are declared until there's only 2 teams remaining. From there if you hit generate next round it will create a brand new page with the winner. 
 
 11. From this window if you hit return you go back to the main menu. 
 
@@ -41,10 +39,10 @@ Github Link:
 
 Team contribution scores: 
 
-Caroline Mathlide: 
-Tyler Beckett:  
-Freddie Pie: 
+Caroline Mathilde: 
+Tyler Beckett: 
+Freddie Pike: 
 Josh Forward:
-Canberk karazfdgnlrsgner;gs:
+Canberk karabudak: 
 Devin Marsh:
 
