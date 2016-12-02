@@ -11,7 +11,7 @@ complete access to everything). Choose between different users in the dropbox or
 3. You now 3 different options, Create Tournament, View Tournaments and Switch Manager. View Tournaments views all active tournaments,
 create tournamnet makes a new tournament. and switch user switches the user you're currently logged in as. 
 
-4. Once your in create tournament, you have several different options for creating a tournament, all must be filled in before
+4. Once you're in create tournament, you have several different options for creating a tournament, all must be filled in before
 you continue. 
 
 5. From here you have 3 options, add team, view teams and then generate match ups depending on if the minimum team requirement
