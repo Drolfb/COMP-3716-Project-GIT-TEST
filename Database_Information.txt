@@ -1,0 +1,97 @@
+The following text files represent the different databases that this program will contain:
+
+							AccountList.txt
+							
+Purpose: This text file represents the list of accounts and their responsibility. 
+
+Column 0	Column 1	Column 2
+accountID	username	role 
+
+accountID - int - The randomized account number. 
+username - String - The name of the user. Unique to everyone. 
+role - String - The role of the user. Can either be Manager, Coach, Referee, or Spectator.
+							
+							
+							
+							
+
+							Game_BasicInfo_RANDOMSTRING.txt
+
+Purpose: This text file represents the initial tournament information. 
+
+Column 0	Column 1	Column 2		Column 3	Column 4	Column 5	Column 6	Column 7	Column 8					
+gameID		tName		Organizer Name	Min Teams	Max Teams	Min_Players	Max_Players	Format		Deadline
+
+What each one means: 
+
+ID - int - A unique ID associated with each tournament
+tName - String - The name of the tournament
+Organizer Name - String - The name of the person who started the tournament.
+Min Teams - int - The minimum number of teams necessary for the tournament
+Max Teams - int - The maximum number of teams necessary for the tournament
+Min Players - int - The minimum number of players necessary for the tournament. 
+Max Players - int - The maximum number of players necessary for the tournament.
+Format - String - The format of the tournament.
+Deadline - String - The year of the deadline. MUST BE IN THE FORMAT OF year-month-day. Ex: 2016-10-2
+
+								Game_RANDOMSTRING_RANDOMSTRING.txt
+
+Purpose: This text file represents the text file that is created once the tournament starts.
+
+Column 0	Column 1	Column 2	Column 3 	Column 4
+Team1		Team2 		Winner		Venue		gameTime
+
+Team1 - Team - The first Team in the game.
+Team2 - Team - The second Team in the game.
+Winner - Team - The winning Team of the game.
+Venue - Venue - The venue the game is taking place. 
+gameTime - String - The date that the game is taking place. 
+
+	
+								Game_BasicInfo_TeamList_RANDOMSTRING.txt
+
+Purpose: Put not finalized team information in a text file.
+
+Column 0	Column 1	Column 2			Column 3	
+teamName	coachName	skill				currentPlayerNum	
+
+																
+								Tournament_Listing.txt 
+								
+Purpose: To list all the tournaments for a user to search for. To be used to update/delete a tournament  
+when a tournament starts. 
+
+Column 0	Column 1 	Column 2	Column 3			Column 4	Column
+Game_ID		tName		Organizer	numTeamsSigned		Max Teams	Deadline
+
+Game_ID - String - Game_ID of the tournament  
+tName - String - The name of tournament 
+Organizer - String - The name of the organizer running the tournament.
+numTeamsSigned - int - The number of teams of registered for the tournament 
+Max Teams - int - The maximum number of teams allowed for the tournament. 
+Deadline
+
+
+								Tournamnet_Archive
+								
+								
+								
+								
+					Pre-Schedule 
+Referee, Location, Time, Date. Needs it. 
+
+					Schedule
+Team1, Team2, Score, Winner, Pre-Schedule data.
+
+players and skill text file
+Team name	
+
+					Teams
+					
+
+Team Name	
+
+
+
+
+

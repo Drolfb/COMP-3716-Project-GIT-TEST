@@ -1,0 +1,7 @@
+Game_BasicInfo_3f26f1b4-9e00-4031-88f7-1fcc9ff959a0/CS3716/Freddie/0/8/12-12-16
+Game_BasicInfo_71945861-f8a8-40b3-8090-e9f161cb0c40/CS3716/Freddie/0/8/12-16-16
+Game_BasicInfo_dbb42ea7-c481-4afa-8043-eb43372992e8/CS3716/Freddie/0/8/7-4-2016
+Game_BasicInfo_730bb513-b67c-4bad-9fdc-29cb221bb9a7/CS3716/Freddie/0/8/3-2-2016
+Game_BasicInfo_bfb2cee3-698a-4708-baea-dc422ae3dd52/CS3716/Freddie/0/8/3-3-2016
+Game_BasicInfo_a43f69dd-4e2a-4981-9f96-ebf72f844071/CS3716/Freddie/0/2/0-0-2016
+Game_BasicInfo_5600691c-64eb-44b5-bea1-661119122c00/CS3716/Freddie/0/8/12-12-2016
